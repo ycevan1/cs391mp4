@@ -1,0 +1,29 @@
+{
+  "mockMuseums": [
+    {
+      "id": "id1",
+      "title": "favorite class",
+      "content": "cs391 is my favorite class. what's your favorite class?"
+    },
+    {
+      "id": "id2",
+      "title": "restaurants in boston",
+      "content": "what are some restaurants you recommend that are close to campus?"
+    },
+    {
+      "id": "id3",
+      "title": "post-grad",
+      "content": "i can't wait to graduate. what are your post-graduation plans?"
+    },
+    {
+      "id": "id4",
+      "title": "cs class recs",
+      "content": "what are some easy CS classes to fulfill group D?"
+    },
+    {
+      "id": "id5",
+      "title": "study spots",
+      "content": "what are some nice study spots at BU? i like cilse"
+    }
+  ]
+}
